@@ -24,9 +24,9 @@ Actual time needed to complete: 45 minutes
 
 Number and name of feature: Feature 3 - Modify the contents
 Estimate of time needed to complete: 45 min
-Start time:
-Finish time:
-Actual time needed to complete:
+Start time: 5:30pm
+Finish time: 6:00pm
+Actual time needed to complete: 30 minutes
 
 Number and name of feature: Feature 4 - Add functionality
 Estimate of time needed to complete: 1 hour
