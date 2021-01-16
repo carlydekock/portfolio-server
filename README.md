@@ -1,7 +1,9 @@
 # Lab 5 - Deploy and Extend Portfolio
 
 ## Overview
-Beginning with the starter code, we modified the contents to accomplish a few feature tasks to build our own portfolio website. 
+Beginning with the starter code, we modified the contents to accomplish a few feature tasks to build our own portfolio website.
+
+## Link to site: carlydekock.github.io/portfolio-server/
 
 ## Resources
 
